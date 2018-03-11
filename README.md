@@ -6,3 +6,5 @@
   ```bash
   python src/translate.py --action walking --seq_length_out 25 --omit_one_hot True --architecture basic --loss_to_use supervised
   ```
+### Acknowledgments
+This code is adapted from [human-motion-prediction](https://github.com/rajeev595/human-motion-prediction) repository by [Julieta Martinez](https://github.com/una-dinosauria/)
